@@ -74,7 +74,7 @@ li.dropdown {
 
 
 <ul>
- 	 <li><a href="home.php">Home</a></li>
+ 	 <li><a href="index.php">Home</a></li>
 	<li><a href="login.php">Login</a></li>
 	<li><a href="book.php">Book A Car</a></li>
  	 <li><a href="contactus.php">Contact Us</a></li>
