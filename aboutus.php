@@ -4,7 +4,7 @@
 <center><img id="banner" src="http://www.calicuttaxi.com/images/banner_04.png" alt="Banner Image" width="1000" height="250"></center>
 <body background="http://media.istockphoto.com/photos/abstract-blue-green-technology-and-science-modern-background-picture-id523760376?k=6&m=523760376&s=170667a&w=0&h=aftceF6b8PRPLj5ATpYHvA7a9g-KgxLBOihz9sT_3PM=">
 
-<title>About Us</title>
+<title>About Us & FAQ</title>
 <style type="text/css">
 
 body
@@ -151,7 +151,7 @@ window.onclick = function(e) {
     
      <div class="links">
 <center>
-      © 2016 Taxi Services Co. All Rights Reserved.</div>
+      Â© 2016 Taxi Services Co. All Rights Reserved.</div>
                       </center>  
      </ul>
      
