@@ -162,7 +162,7 @@ window.onclick = function(e) {
     
      <div class="links">
 <center>
-      © 2016 Taxi Services Co. All Rights Reserved.</div>
+      Â© 2016 Taxi Services Co. All Rights Reserved.</div>
                       </center>  
      </ul>
      
